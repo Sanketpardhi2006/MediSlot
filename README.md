@@ -58,7 +58,7 @@ thank you
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Sanketpardhi2006/Doctor-Appointment-System.git
+[git clone https://github.com/Sanketpardhi2006/Doctor-Appointment-System.git](https://github.com/Sanketpardhi2006/MediSlot.git)
 cd Doctor-Appointment-System
 
 
